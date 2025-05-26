@@ -1,16 +1,40 @@
-<<<<<<< HEAD
-# React + Vite
+# Drip Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛍️ **Drip Store** é um projeto de e-commerce desenvolvido com **React.js**, baseado no design do [Figma oficial](https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE).  
+O objetivo do projeto é criar uma loja online funcional, com as principais páginas e funcionalidades de um e-commerce.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Funcionalidades
 
-## Expanding the ESLint configuration
+✅ Listagem de produtos na página inicial  
+✅ Página de detalhes do produto  
+✅ Carrinho de compras com atualização de quantidade  
+✅ Remover itens do carrinho  
+✅ Finalizar compra (limpar o carrinho)  
+🚧 Busca de produtos (em breve)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# drip-store
->>>>>>> f75d3ecdb78bb440696b033be831132530fd565c
+---
+
+## 🧩 Tecnologias
+
+- **React.js**  
+- **React Router DOM**  
+- **Context API** (para o carrinho)  
+- CSS (puro ou TailwindCSS, se adicionado)  
+
+---
+
+## 🖼️ Layout
+
+Design baseado no Figma oficial:  
+🔗 [Drip Store - Digital College (Figma)](https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE)
+
+---
+
+## 🛠️ Como rodar o projeto
+
+1️⃣ Clone o repositório:
+```bash
+git clone https://github.com/LipeBT7274/drip-store.git
+cd drip-store
